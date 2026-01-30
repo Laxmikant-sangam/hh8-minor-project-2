@@ -31,7 +31,7 @@ Before running the scanner, ensure you have the following:
 1.  **Clone the Repository**
     ```bash
         git clone https://github.com/Laxmikant-sangam/hh8-minor-project-2.git
-        cd iot-device-scanner
+        cd iot-scanner
     ```
 
 2.  **Install Dependencies**
