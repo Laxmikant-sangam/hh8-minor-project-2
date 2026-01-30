@@ -66,7 +66,8 @@ Plaintext
 ============================================================
 IOT VULNERABILITY REPORT
 ============================================================
-"Here you will get the results ": [DEVICE] IP: 192.168.1.102 | MAC: 7C:K2:91:88:77:66
+"Here you will get the results ":
+ [DEVICE] IP: 192.168.1.102 | MAC: 7C:K2:91:88:77:66
          Vendor: TP-Link
          [!] RISK: Possible Default Credentials found!
              User: admin / Pass: admin
