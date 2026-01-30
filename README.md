@@ -83,4 +83,5 @@ Unauthorized network scanning can be considered a cybercrime in many jurisdictio
 The developers assume no liability for misuse of this software.
 
 🤝 Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature enhancements.
+Contributions are welcome! Please open an issue or submit a pull request for any bugs or
+feature enhancements.
