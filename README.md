@@ -71,3 +71,16 @@ IOT VULNERABILITY REPORT
          Vendor: TP-Link
          [!] RISK: Possible Default Credentials found!
              User: admin / Pass: admin
+
+
+⚠️ Ethical Disclaimer
+This tool is for educational and defensive purposes only.
+
+Do not scan networks you do not own or do not have explicit permission to audit.
+
+Unauthorized network scanning can be considered a cybercrime in many jurisdictions.
+
+The developers assume no liability for misuse of this software.
+
+🤝 Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature enhancements.
